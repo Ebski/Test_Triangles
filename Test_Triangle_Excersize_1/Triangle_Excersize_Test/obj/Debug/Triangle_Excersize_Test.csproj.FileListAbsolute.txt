@@ -7,3 +7,12 @@ D:\School\1.Semester\Test\Test_Triangle_Excersize_1\Triangle_Excersize_Test\bin\
 D:\School\1.Semester\Test\Test_Triangle_Excersize_1\Triangle_Excersize_Test\obj\Debug\Triangle_Excersize_Test.csprojResolveAssemblyReference.cache
 D:\School\1.Semester\Test\Test_Triangle_Excersize_1\Triangle_Excersize_Test\obj\Debug\Triangle_Excersize_Test.dll
 D:\School\1.Semester\Test\Test_Triangle_Excersize_1\Triangle_Excersize_Test\obj\Debug\Triangle_Excersize_Test.pdb
+D:\School\1.Semester\Test\Test_Triangles\Test_Triangle_Excersize_1\Triangle_Excersize_Test\bin\Debug\Triangle_Excersize_Test.dll
+D:\School\1.Semester\Test\Test_Triangles\Test_Triangle_Excersize_1\Triangle_Excersize_Test\bin\Debug\Triangle_Excersize_Test.pdb
+D:\School\1.Semester\Test\Test_Triangles\Test_Triangle_Excersize_1\Triangle_Excersize_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\School\1.Semester\Test\Test_Triangles\Test_Triangle_Excersize_1\Triangle_Excersize_Test\bin\Debug\Test_Triangle_Excersize_1.exe
+D:\School\1.Semester\Test\Test_Triangles\Test_Triangle_Excersize_1\Triangle_Excersize_Test\bin\Debug\Test_Triangle_Excersize_1.pdb
+D:\School\1.Semester\Test\Test_Triangles\Test_Triangle_Excersize_1\Triangle_Excersize_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\School\1.Semester\Test\Test_Triangles\Test_Triangle_Excersize_1\Triangle_Excersize_Test\obj\Debug\Triangle_Excersize_Test.csprojResolveAssemblyReference.cache
+D:\School\1.Semester\Test\Test_Triangles\Test_Triangle_Excersize_1\Triangle_Excersize_Test\obj\Debug\Triangle_Excersize_Test.dll
+D:\School\1.Semester\Test\Test_Triangles\Test_Triangle_Excersize_1\Triangle_Excersize_Test\obj\Debug\Triangle_Excersize_Test.pdb

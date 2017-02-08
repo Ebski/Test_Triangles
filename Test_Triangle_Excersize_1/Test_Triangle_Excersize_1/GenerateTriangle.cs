@@ -21,11 +21,11 @@ namespace Test_Triangle_Excersize_1
                 Console.WriteLine("Write length of third side of the triangle");
                 c = int.Parse(Console.ReadLine());
             }
-            catch(FormatException) // Caches decimals, strings and numbers over max Integer size
+            catch (FormatException) // Caches decimals, strings and numbers over max Integer size
             {
                 return "Invalid input";
             }
-            catch(OverflowException)
+            catch (OverflowException)
             {
                 return "Invalid input";
             }
@@ -39,24 +39,16 @@ namespace Test_Triangle_Excersize_1
             triangle = isTriangle(a, b, c);
             if (!triangle) { return "Not a triangle"; }
             else { return checkTriangle(a, b, c); }
-            
+
         }
 
         private bool isTriangle(int a, int b, int c)
         {
-            if (a > b && a > c && a > b + c)
+            if (a > b && a > c && a > b + c || b > a && b > c && b > a + c || c > a && c > b && c > a + b)
             {
                 return false;
             }
-            if (b > a && b > c && b > a + c)
-            {
-                return false;
-            }
-            if (c > a && c > b && c > a + b)
-            {
-                return false;
-            }
-            return true;
+            else { return true; }
         }
 
         private string checkTriangle(int a, int b, int c)
