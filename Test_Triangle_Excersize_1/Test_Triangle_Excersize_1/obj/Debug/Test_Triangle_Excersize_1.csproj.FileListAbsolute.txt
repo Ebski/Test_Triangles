@@ -9,3 +9,4 @@ D:\School\1.Semester\Test\Test_Triangles\Test_Triangle_Excersize_1\Test_Triangle
 D:\School\1.Semester\Test\Test_Triangles\Test_Triangle_Excersize_1\Test_Triangle_Excersize_1\obj\Debug\Test_Triangle_Excersize_1.pdb
 D:\School\1.Semester\Test\Test_Triangles\Test_Triangle_Excersize_1\Test_Triangle_Excersize_1\bin\Debug\Test_Triangle_Excersize_1.exe
 D:\School\1.Semester\Test\Test_Triangles\Test_Triangle_Excersize_1\Test_Triangle_Excersize_1\bin\Debug\Test_Triangle_Excersize_1.pdb
+D:\School\1.Semester\Test\Test_Triangles\Test_Triangle_Excersize_1\Test_Triangle_Excersize_1\obj\Debug\Test_Triangle_Excersize_1.csprojResolveAssemblyReference.cache

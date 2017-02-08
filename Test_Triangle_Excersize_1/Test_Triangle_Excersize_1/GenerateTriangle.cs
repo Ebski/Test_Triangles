@@ -35,36 +35,26 @@ namespace Test_Triangle_Excersize_1
         public string generate(int a, int b, int c)
         {
             bool triangle;
-            if (a <= 0 || b <= 0 || c <= 0) { return "Invalid input"; }
+            if (a <= 0 || b <= 0 || c <= 0)         { return "Invalid input"; }
             triangle = isTriangle(a, b, c);
-            if (!triangle) { return "Not a triangle"; }
-            else { return checkTriangle(a, b, c); }
+            if (!triangle)                          { return "Not a triangle"; }
+            else                                    { return checkTriangle(a, b, c); }
 
         }
 
         private bool isTriangle(int a, int b, int c)
         {
-            if (a > b && a > c && a > b + c || b > a && b > c && b > a + c || c > a && c > b && c > a + b)
-            {
-                return false;
-            }
-            else { return true; }
+            if (a > b && a > c && a > b + c ||
+                b > a && b > c && b > a + c ||
+                c > a && c > b && c > a + b)        { return false; }
+            else                                    { return true; }
         }
 
         private string checkTriangle(int a, int b, int c)
         {
-            if (a == b && a == c)
-            {
-                return "Equilateral triangle";
-            }
-            else if (a == b || a == c || b == c)
-            {
-                return "Isosceles triangle";
-            }
-            else
-            {
-                return "Scalene triangle";
-            }
+            if      (a == b && a == c)              { return "Equilateral triangle"; }
+            else if (a == b || a == c || b == c)    { return "Isosceles triangle"; }
+            else                                    { return "Scalene triangle"; }
         }
     }
 }
