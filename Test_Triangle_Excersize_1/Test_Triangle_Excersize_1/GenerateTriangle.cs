@@ -25,6 +25,10 @@ namespace Test_Triangle_Excersize_1
             {
                 return "Invalid input";
             }
+            catch(OverflowException)
+            {
+                return "Invalid input";
+            }
 
             return generate(a, b, c);
         }
