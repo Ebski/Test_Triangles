@@ -56,10 +56,5 @@ namespace Test_Triangle_Excersize_1
             else if (a == b || a == c || b == c)    { return "Isosceles triangle"; }
             else                                    { return "Scalene triangle"; }
         }
-
-        public string testcForGitCrap()
-        {
-            return "git fucks up";
-        }
     }
 }
