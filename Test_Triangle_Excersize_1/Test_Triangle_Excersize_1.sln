@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_Triangle_Excersize_1", "Test_Triangle_Excersize_1\Test_Triangle_Excersize_1.csproj", "{84ABAF31-4E6D-4DAB-8949-1DEE3B68CCB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle_Excersize_Test", "Triangle_Excersize_Test\Triangle_Excersize_Test.csproj", "{5F03E5D0-A7F4-44F2-80A4-B3622CAAAE6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84ABAF31-4E6D-4DAB-8949-1DEE3B68CCB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84ABAF31-4E6D-4DAB-8949-1DEE3B68CCB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84ABAF31-4E6D-4DAB-8949-1DEE3B68CCB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84ABAF31-4E6D-4DAB-8949-1DEE3B68CCB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F03E5D0-A7F4-44F2-80A4-B3622CAAAE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F03E5D0-A7F4-44F2-80A4-B3622CAAAE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F03E5D0-A7F4-44F2-80A4-B3622CAAAE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F03E5D0-A7F4-44F2-80A4-B3622CAAAE6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
